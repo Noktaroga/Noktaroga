@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José!</h1>
 <h3 align="center">I'm a developer who strives to follow industry best practices, focusing not only on keeping my code clean but also making it efficient. I'm passionate about continuous learning, which drives me to thoroughly explore new technologies in the field of development. I'm excited about creating innovative content that meets user needs!.</h3>
 
-- 🔭 I’m currently working on **as a freelance!**
+- 🔭 I’m currently working **as a freelance!**
 
 - 🌱 I’m currently learning: **AWS, C#, Unity**
 
