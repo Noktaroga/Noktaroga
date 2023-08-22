@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José!</h1>
-<h3 align="center">I'm a developer who not only on keeping my code clean but also making it efficient. I'm passionate about continuous learning, which drives me to thoroughly explore new technologies in the field of development. I'm excited about creating innovative content that meets user needs!.</h3>
+<h3 align="center">I'm a developer who not only on keep code clean but also make it efficient. I'm passionate about continuous learning, which drives me to thoroughly explore new technologies in the field of development. I'm excited about creating innovative content that meets user needs!.</h3>
 
 - 🔭 I’m currently working **as a freelance!**
 
