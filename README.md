@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Noktaroga](https://github.com/Noktaroga)
 
-- 💬 Ask me about **Django, Node.JS,Selenium**
+- 💬 Ask me about **Django, Node.JS, Selenium**
 
-- 📫 How to reach me **joseglagunar@gmail.com**
+- 📫 How to reach me: **joseglagunar@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joseglagunar/](https://www.linkedin.com/in/joseglagunar/)
 
