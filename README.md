@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on **as a freelance!**
 
-- 🌱 I’m currently learning **AWS, C#, Unity**
+- 🌱 I’m currently learning: **AWS, C#, Unity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Noktaroga](https://github.com/Noktaroga)
+- 👨‍💻 All of my projects are available at: [https://github.com/Noktaroga](https://github.com/Noktaroga)
 
-- 💬 Ask me about **Django, Node.JS, Selenium**
+- 💬 You can ask me about: **Django, Node.JS, Selenium**
 
 - 📫 How to reach me: **joseglagunar@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/joseglagunar/](https://www.linkedin.com/in/joseglagunar/)
+- 📄 Know about my experiences here: [https://www.linkedin.com/in/joseglagunar/](https://www.linkedin.com/in/joseglagunar/)
 
-- ⚡ Fun fact **Software is like sex: it's better when it's free.**
+- ⚡ Fun fact: **Software is like sex: it's better when it's free.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
