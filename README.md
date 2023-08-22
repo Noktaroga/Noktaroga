@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences here: [https://www.linkedin.com/in/joseglagunar/](https://www.linkedin.com/in/joseglagunar/)
 
-- ⚡ Fun fact: **Software is like sex: it's better when it's free.**
+- ⚡ Fun fact: **Software is like sex, it's better when it's free.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
