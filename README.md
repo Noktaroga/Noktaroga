@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working **as a freelance!**
 
-- 🌱 I’m currently learning: **AWS, C#, Unity**
+- 🌱 I’m currently learning: **UnrealEngine, C++**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Noktaroga](https://github.com/Noktaroga)
 
-- 💬 You can ask me about: **Django, Node.JS, Selenium**
+- 💬 You can ask me about: **Django & Node.JS**
 
 - 📫 How to reach me: **joseglagunar@gmail.com**
 
